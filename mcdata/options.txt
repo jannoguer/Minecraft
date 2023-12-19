@@ -1,7 +1,7 @@
 invertYMouse:false
 mouseSensitivity:0.40140846
 fov:0.5
-gamma:0.41549295
+gamma:1.0
 saturation:0.0
 renderDistance:8
 guiScale:2
@@ -10,11 +10,11 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:false
 ao:0
 renderClouds:false
-resourcePacks:[]
+resourcePacks:["NewTextures-1.8.zip","FullBright-1.8.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:es_ES
